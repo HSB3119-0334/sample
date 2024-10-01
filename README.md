@@ -1,2 +1,2 @@
  Itroduction to Data Science
-![](/insert path here)
+![](images/DR2615-100-2_360x.webp)
