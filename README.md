@@ -1,2 +1,2 @@
  Itroduction to Data Science
-![](images/DR2615-100-2_360x.webp)
+![](images/z5232862904397_39099e7a414babe8f98ae4f12204c092.jpg)
